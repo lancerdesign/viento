@@ -2,15 +2,15 @@
    Viento — design tokens
    =========================================================== */
 :root{
-  --paper:       #F6F1E7;
-  --paper-alt:   #EFE7D6;
-  --ink:         #211D17;
-  --ink-soft:    #6B6255;
-  --walnut:      #7C5A3E;
-  --walnut-dark: #4A3626;
-  --sage:        #6E7A62;
-  --line:        #DDD3BE;
-  --line-strong: #C9BCA0;
+  --paper:       #F7F5F1;
+  --paper-alt:   #ECE7DE;
+  --ink:         #1B1917;
+  --ink-soft:    #6F6A62;
+  --walnut:      #AE5A3D;
+  --walnut-dark: #7A3B27;
+  --sage:        #8C8577;
+  --line:        #E2DCD0;
+  --line-strong: #CFC5B4;
 
   --display: "Fraunces", Georgia, serif;
   --body:    "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
